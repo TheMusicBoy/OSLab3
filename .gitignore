@@ -1,0 +1,12 @@
+# IDE and LSP configs
+**.clangd
+**compile_commands.json
+**.vimspector.json
+**.idea
+**.vscode
+
+# Build directories
+**/build
+**/bin
+**/cmake-build
+**/.cache
